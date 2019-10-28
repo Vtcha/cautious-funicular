@@ -2,6 +2,9 @@
 J'ai essayer de faire ce que je pouvais mais je n'ais pas reussi a faire fonctionner l'application, je laisse quand meme le code pour avoir un aperçu. 
 
 
+
+J'ai beaucoup utilisé internet pour mes recherches. 
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
