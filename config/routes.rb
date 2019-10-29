@@ -3,7 +3,7 @@ Rails.application.routes.draw do
 
 root 'home#gossip'
 
-get 'user/show
+get 'user/show'
 
 get 'home/gossip'
 
